@@ -1,4 +1,9 @@
-### Hi there 👋
+### Lambda
+```
+  _____
+</. _ .\>
+ \__^__/ Otter :)
+```
 
 <!--
 **lambda-san7/lambda-san7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
