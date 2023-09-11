@@ -7,7 +7,7 @@
 - 💬 Ask me about my cat
 - 📫 How to reach me: don't
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I hate rustup but Ferris was a gift Jesus himself
+- ⚡ Fun fact: I hate rustup but Ferris was a gift from Jesus himself
 
 <!--
 **lambda-san7/lambda-san7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
